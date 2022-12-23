@@ -1,0 +1,25 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amustaque97/node-streams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amustaque97/node-streams/issues"
+  },
+  "homepage": "https://github.com/amustaque97/node-streams#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "node-fetch": "^3.3.0"
+  }
+}
